@@ -1,0 +1,105 @@
+[
+    {
+        "order_id": "4e22d455-c49b-452a-a6d4-6ae39e1d57da",
+        "customer_id": "1f28e542-a9c1-41f3-886b-c80322d38143",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            },
+            {
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 1500.0
+            }
+        ],
+        "total_amount": 123000.0,
+        "status": "shipped"
+    },
+    {
+        "order_id": "ccd2f486-2cb5-472c-b614-07dbb94c2b0f",
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            }
+        ],
+        "total_amount": 120000.0,
+        "status": "pending"
+    },
+    {
+        "order_id": "5fc76491-09b7-416a-84f6-372520047f4e",
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            },
+            {
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 1500.0
+            }
+        ],
+        "total_amount": 123000.0,
+        "status": "pending"
+    },
+    {
+        "order_id": "b9620e51-d832-42fc-ba52-ba6d4cfe2c98",
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            },
+            {
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 1500.0
+            }
+        ],
+        "total_amount": 123000.0,
+        "status": "pending"
+    },
+    {
+        "order_id": "3dc84547-d9ed-4249-876e-c4535411baa3",
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            },
+            {
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 1500.0
+            }
+        ],
+        "total_amount": 123000.0,
+        "status": "pending"
+    },
+    {
+        "order_id": "e2a85c8d-72a6-4a69-b958-08f153d12ab6",
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "items": [
+            {
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 120000.0
+            },
+            {
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 1500.0
+            }
+        ],
+        "total_amount": 123000.0,
+        "status": "pending"
+    }
+]

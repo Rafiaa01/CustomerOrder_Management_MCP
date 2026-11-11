@@ -1,0 +1,20 @@
+[
+    {
+        "customer_id": "1f28e542-a9c1-41f3-886b-c80322d38143",
+        "name": "Ali Khan",
+        "email": "ali@example.com",
+        "phone": "03001234567"
+    },
+    {
+        "customer_id": "1a333cce-9c1c-46d1-a478-05bf82e255f7",
+        "name": "Sara Ahmed",
+        "email": "sara@example.com",
+        "phone": "03001234567"
+    },
+    {
+        "customer_id": "ccd9224e-7001-4b58-b485-dd81bf12241b",
+        "name": "rafia",
+        "email": "rafiaabbasi0001@gmail.com",
+        "phone": "03325898524"
+    }
+]
